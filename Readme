@@ -1,0 +1,8 @@
+OS : ubuntu 14.04  python 2.7  Pyqt5.7  mxnet 1.0 
+
+
+Reference
+
+https://github.com/davidsandberg/facenet
+https://github.com/pangyupo/mxnet_mtcnn_face_detection
+https://github.com/deepinsight/insightface
