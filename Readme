@@ -1,4 +1,12 @@
-OS : ubuntu 14.04  python 2.7  Pyqt5.7  mxnet 1.0 
+OS : ubuntu 14.04  python 2.7  Pyqt5.7  mxnet 1.0 mysql
+
+
+
+You need to create some folders 
+
+mtcnn-model    download from https://github.com/pangyupo/mxnet_mtcnn_face_detection   model
+mtcnnmodel     download from https://github.com/Seanlinx/mtcnn            model
+models         download from https://github.com/deepinsight/insightface   Pretrained Models
 
 
 Reference
@@ -6,3 +14,4 @@ Reference
 https://github.com/davidsandberg/facenet
 https://github.com/pangyupo/mxnet_mtcnn_face_detection
 https://github.com/deepinsight/insightface
+https://github.com/Seanlinx/mtcnn 
